@@ -7,3 +7,7 @@ The linked list implements a given interface to achieve the expected effects.
 The Unit Tests were generated using NetBean's JUnit and customized to test the features for expected performance and defects.
 
 A driver file was purposely omitted since the objective was Unit Testing practice.
+
+# Final notes
+
+The project was completed as per instructions prior to the introduction to GitHub and therefore everything was uploaded in its final state.
